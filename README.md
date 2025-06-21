@@ -16,7 +16,7 @@ TAG:
 
 ![System Windows](https://img.shields.io/badge/System-Windows-blue?style=for-the-badge)
 
-![Game Minecraft](https://img.shields.io/badge/Games-Minecraft-chocolate?style=for-the-badge)
+![Game Minecraft](https://img.shields.io/badge/Game-Minecraft-chocolate?style=for-the-badge)
 
 ---
 
