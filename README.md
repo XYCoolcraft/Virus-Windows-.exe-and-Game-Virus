@@ -8,9 +8,35 @@ Hi There! Thank you for visiting "Windows Studio Virus" created by me. Here will
 
 ---
 
+TAG:
+
 ![Virus App Windows](https://img.shields.io/badge/Virus_App-Windows-red?style=for-the-badge)
 
---
+![Virus Malware](https://img.shields.io/badge/Virus-Malware-red?style=for-the-badge)
+
+![System Windows](https://img.shields.io/badge/System-Windows-blue?style=for-the-badge)
+
+![Games Minecraft](https://img.shields.io/badge/Games-Minecraft-chocolate?style=for-the-badge)
+
+---
+
+SEPARATE TAG:
+
+![Virus](https://img.shields.io/badge/Virus-red?style=for-the-badge)
+
+![System](https://img.shields.io/badge/System-gray?style=for-the-badge)
+
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge)
+
+![File](https://img.shields.io/badge/File-chocolate?style=for-the-badge)
+
+![Sandbox](https://img.shields.io/badge/Sandbox-white?style=for-the-badge)
+
+![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-white?style=for-the-badge)
+
+![Minecraft](https://img.shields.io/badge/Minecraft-green?style=for-the-badge)
+
+---
 
 # Minecraft Java Virus ( Only playable on Windows! )
 
@@ -34,6 +60,9 @@ Hi There! Thank you for visiting "Windows Studio Virus" created by me. Here will
 - Eror 857 ( 60% Tinkering & 42% Creepy & 30% The Dangers of Destroying Windows System )
 - Alpha 1.2.7 ( 43% Tinkering with Windows System )
 - Alpha 1.1.2_01 ( 32% Tinkering with Windows System )
+
+NOTE!:
+PLEASE USE WINDOWS SANDBOX OR VIRTUAL MACHINE TO RUN THE APP FILE!
 
 That's all from the list of versions mentioned..., I apologize if the file name is not on the list of versions mentioned because I'm looking for the original source and the original files, once again I apologize if the file name is different from the text of the version list.
 
