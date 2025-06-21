@@ -66,6 +66,8 @@ SEPARATE TAG:
 NOTE!:
 PLEASE USE WINDOWS SANDBOX OR VIRTUAL MACHINE TO RUN THE APP FILE!
 
+Download? there is a Release called "Minecraft Java Virus"
+
 That's all from the list of versions mentioned..., I apologize if the file name is not on the list of versions mentioned because I'm looking for the original source and the original files, once again I apologize if the file name is different from the text of the version list.
 
 Bahasa Indonesia: Tingkering with Windows System = Mengotak Ngatik File/System Windows || Creepy = Menakutkan || The Dangers of Destroying Windows System = Bahaya Merusak Sistem Windows
