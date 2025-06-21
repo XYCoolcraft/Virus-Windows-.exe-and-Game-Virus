@@ -16,25 +16,27 @@ TAG:
 
 ![System Windows](https://img.shields.io/badge/System-Windows-blue?style=for-the-badge)
 
-![Games Minecraft](https://img.shields.io/badge/Games-Minecraft-chocolate?style=for-the-badge)
+![Game Minecraft](https://img.shields.io/badge/Games-Minecraft-chocolate?style=for-the-badge)
 
 ---
 
 SEPARATE TAG:
 
-![Virus](https://img.shields.io/badge/Virus-red?style=for-the-badge)
+![Virus🦠](https://img.shields.io/badge/Virus🦠-red?style=for-the-badge)
 
-![System](https://img.shields.io/badge/System-gray?style=for-the-badge)
+![System⚙️](https://img.shields.io/badge/System⚙️-gray?style=for-the-badge)
 
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge)
+![Windows🖥️💻](https://img.shields.io/badge/Windows🖥️💻-blue?style=for-the-badge)
 
-![File](https://img.shields.io/badge/File-chocolate?style=for-the-badge)
+![File📁](https://img.shields.io/badge/File📁-chocolate?style=for-the-badge)
 
-![Sandbox](https://img.shields.io/badge/Sandbox-white?style=for-the-badge)
+![Sandbox⛓️](https://img.shields.io/badge/Sandbox⛓️-white?style=for-the-badge)
 
-![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-white?style=for-the-badge)
+![Virtual Machine⛓️](https://img.shields.io/badge/Virtual_Machine⛓️-white?style=for-the-badge)
 
-![Minecraft](https://img.shields.io/badge/Minecraft-green?style=for-the-badge)
+![Minecraft⛏️](https://img.shields.io/badge/Minecraft⛏️-green?style=for-the-badge)
+
+![Game🎮](https://img.shields.io/badge/Game🎮-yellow?style=for-the-badge)
 
 ---
 
