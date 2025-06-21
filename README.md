@@ -67,6 +67,7 @@ NOTE!:
 PLEASE USE WINDOWS SANDBOX OR VIRTUAL MACHINE TO RUN THE APP FILE!
 
 Download? there is a Release called "Minecraft Java Virus"
+- Link: https://github.com/XYCoolcraft/Virus-Windows-.exe-and-Game-Virus/releases/tag/Minecraft_Java_Virus
 
 That's all from the list of versions mentioned..., I apologize if the file name is not on the list of versions mentioned because I'm looking for the original source and the original files, once again I apologize if the file name is different from the text of the version list.
 
